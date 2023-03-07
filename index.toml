@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display.pw.toml"
-hash = "fe2f4225b5afac86a2da41107854acc38a1f3d9bdf550e09abbcb33ad4fae1e1"
+hash = "91510269d5a967725153ce06893a97bca2333b4fe15ab1bd7547c38c6f0403db"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "fe906b3f4de4fe6c7313609f5c7cc44e733cd0e82cf74b6dbce52440bc7beccc"
+hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/preciseblockplacing.pw.toml"
-hash = "f3786ba34e28cc7dac07dafb81412825b7fe012d5044a1f912eaa64bcca3da76"
+hash = "d08d178c0eaa94620b18b0cf71b69deefdb0dc78f0f990deffddd0edae986484"
 metafile = true
 
 [[files]]
@@ -110,8 +110,8 @@ hash = "b6717974145774238e8562a4e56eafdae7320b73fb9a460fc01b2ee13f020e54"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "f19739ef5658c8771ec1facccfb4b35cf9cdd2fd4d58d856198db6e2ab247f83"
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "9bfd65afa491323bb3a77715ddfc026215cd8fbdc79fe4c4773554add3eb710e"
 metafile = true
 
 [[files]]
