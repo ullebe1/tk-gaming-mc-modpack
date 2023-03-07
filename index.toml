@@ -3,3 +3,118 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "0156c0ff012fca7c84f19613e02121b63447e9bab8fb5d6cd98e27bd1d4b4a05"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "535d312128e500ea510af84dbf65008ae48f4d9640be713088c3d00a99ef1f7d"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "f216f9d7d48d821fb82fdeebd6dce93724862158fc2de33f08b4686829529bf0"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "fe2f4225b5afac86a2da41107854acc38a1f3d9bdf550e09abbcb33ad4fae1e1"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c7fea242250b914c9f41782197a47d431972e5e49728c26980b1d66d2b4c38e2"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "9c4220351f55066df11385af61701efba1b99178d6c925167f186e5841ce2cac"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f2d594d255ceeadc94b32be5200741b8a5f237fc65848da04e131f2b8970e6fd"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "0483b17d91a33dc55bd2f5ef6dc7fc37b520042f09e662078a3ce87b6096a48f"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9c896dd2db4542134682178d25ca3644e8c945408a6486fc9d7cb03f6277a829"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "f654a47fe0dde9acb9ac75bea1be750148ab3bb62db886d1aef50ed1102dc1b7"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "016c3bd999966ba94a21728e252bcbc2015ed4729596211f0cbf626e532b4583"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "fe906b3f4de4fe6c7313609f5c7cc44e733cd0e82cf74b6dbce52440bc7beccc"
+metafile = true
+
+[[files]]
+file = "mods/nochatlag.pw.toml"
+hash = "e1fa1d732662d24dffd917b4d5aabee6368f3a243d7e7c4ec9795d5903743d0c"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "8958d196d37148bf7f2dec87d1ceb1345a3d97b05f132e4183393e6be947a249"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "3e2a43f6da4c71e21990ef674dbc06dd393c53c011368f893baebda82633182a"
+metafile = true
+
+[[files]]
+file = "mods/preciseblockplacing.pw.toml"
+hash = "f3786ba34e28cc7dac07dafb81412825b7fe012d5044a1f912eaa64bcca3da76"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "058a0c02c9735a132c19e58358a1d28fe1cba6ce91267c42562d6c257b8afde8"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "529c82bb9c085fb98ee4e428eec8de8cd6d9563295ce80c7afc6c4c53bd7de8b"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "b6717974145774238e8562a4e56eafdae7320b73fb9a460fc01b2ee13f020e54"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f19739ef5658c8771ec1facccfb4b35cf9cdd2fd4d58d856198db6e2ab247f83"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "288fee7a1312ac0d04753698b8ac37dfc12dbf25ec898e1395be50736a869142"
+metafile = true

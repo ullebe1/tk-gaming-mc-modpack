@@ -1,0 +1,13 @@
+name = "Precise Block Placing"
+filename = "preciseblockplacing-1.1.0+1.18.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0428b321b62e345b421ebbcc2c42f33d53f6b811"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3826133
+project-id = 407981

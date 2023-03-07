@@ -1,0 +1,13 @@
+name = "NoChatLag (Fabric & Forge)"
+filename = "NoChatLagForge-1.1.0-1.17-1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/afu4kdAc/versions/1.1.0/NoChatLagForge-1.1.0-1.17-1.18.jar"
+hash-format = "sha1"
+hash = "fc7d195cf667b08f2565fbe13f3ccd394c398cd2"
+
+[update]
+[update.modrinth]
+mod-id = "afu4kdAc"
+version = "bIhQcAcu"
