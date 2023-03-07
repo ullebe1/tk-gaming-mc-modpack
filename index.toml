@@ -55,6 +55,11 @@ hash = "0483b17d91a33dc55bd2f5ef6dc7fc37b520042f09e662078a3ce87b6096a48f"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "d32925cc3cd59d5dba62722f87e0efb4d149f45fd492f0374a72537c6ff99a75"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
 metafile = true
