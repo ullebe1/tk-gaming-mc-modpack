@@ -1,0 +1,13 @@
+name = "Balm"
+filename = "balm-3.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/nFs2ZvOR/balm-3.2.5.jar"
+hash-format = "sha1"
+hash = "e9bd45de167dc0fb02c3b55cd1035cf7aa52b8ee"
+
+[update]
+[update.modrinth]
+mod-id = "MBAkmtvl"
+version = "nFs2ZvOR"

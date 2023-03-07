@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "0156c0ff012fca7c84f19613e02121b63447e9bab8fb5d6cd98e27bd1d4b4a05"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "535d312128e500ea510af84dbf65008ae48f4d9640be713088c3d00a99ef1f7d"
 metafile = true
@@ -12,6 +17,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "f216f9d7d48d821fb82fdeebd6dce93724862158fc2de33f08b4686829529bf0"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "6419454b6c825800345bc76a7a5f05a9d9d995d8e3b2ed84621394f441124961"
 metafile = true
 
 [[files]]
@@ -30,6 +40,11 @@ hash = "9c4220351f55066df11385af61701efba1b99178d6c925167f186e5841ce2cac"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "a6798b749c136f114afbbfd72a6a390425cb678710ed00a0b6a200f2167b19e5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f2d594d255ceeadc94b32be5200741b8a5f237fc65848da04e131f2b8970e6fd"
 metafile = true
@@ -42,6 +57,16 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "b4220ba8beef3496ecf438d04ec37d8d12dfb3fe05682cb886cabcbaac229527"
+metafile = true
+
+[[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "4d264051a17d4df4646fdcc15ef40bb9135d81f161240798afde4166179017ac"
 metafile = true
 
 [[files]]
@@ -70,8 +95,28 @@ hash = "016c3bd999966ba94a21728e252bcbc2015ed4729596211f0cbf626e532b4583"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "93261262c8a2ea491c940708777edc0fc3009f8d9b0b10c431e8b8b90c96564d"
+metafile = true
+
+[[files]]
+file = "mods/maessentials.pw.toml"
+hash = "1c6bff091e743be2d1e035cd3687c8c12b80743e387b7a04c911df2ba2b5a754"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
+metafile = true
+
+[[files]]
+file = "mods/more-mobgriefing-options.pw.toml"
+hash = "1a6c4031b65b1e9192a81173b401f251807d14f428b4457fa537067036f40794"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "95d7d9033f2162ebcd225d9d177c86642ac6bfecdea42efd047f047c41cf17e4"
 metafile = true
 
 [[files]]

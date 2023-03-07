@@ -1,0 +1,13 @@
+name = "Login Protection[Forge/Fabric]"
+filename = "logprot-1.18.2-1.6.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "ab261db2d3783a3c6007192f86bc676759cc24c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3751574
+project-id = 358304

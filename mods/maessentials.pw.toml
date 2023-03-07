@@ -1,0 +1,13 @@
+name = "Ma Essentials"
+filename = "maessentials-1.18-3.7.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "46d15f09bfa10eed545f47a0b3210fb555585c07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3565169
+project-id = 345135
