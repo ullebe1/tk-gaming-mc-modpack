@@ -40,6 +40,11 @@ hash = "c7fea242250b914c9f41782197a47d431972e5e49728c26980b1d66d2b4c38e2"
 metafile = true
 
 [[files]]
+file = "mods/betterloadingscreen.pw.toml"
+hash = "28e8168a20c3e921253d1b4e967b763b04c4363c7ea9a26a1fbe27eb2d4afdf6"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "9c4220351f55066df11385af61701efba1b99178d6c925167f186e5841ce2cac"
 metafile = true
