@@ -1,0 +1,13 @@
+name = "Controllable"
+filename = "controllable-0.17.0-1.18.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c46e393f2d279d20c0d886fda6d59a236ec2fa14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4376751
+project-id = 317269
