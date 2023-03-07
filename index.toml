@@ -15,6 +15,11 @@ hash = "535d312128e500ea510af84dbf65008ae48f4d9640be713088c3d00a99ef1f7d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "130a63c55f46b5f1f0e72ce3433e2d095e7ed8b4f696a11db0d3506f6696130e"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "f216f9d7d48d821fb82fdeebd6dce93724862158fc2de33f08b4686829529bf0"
 metafile = true
