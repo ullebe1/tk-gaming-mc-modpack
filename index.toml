@@ -30,6 +30,11 @@ hash = "6d6c323e050a88e30615d1cc6b61152f4221d42f8f1084be790538a5af37b27f"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "7c21ede97f64903fcda3d3828f18d0f43b1060d2c8af2967992f3b7a312b58c8"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "91510269d5a967725153ce06893a97bca2333b4fe15ab1bd7547c38c6f0403db"
 metafile = true
