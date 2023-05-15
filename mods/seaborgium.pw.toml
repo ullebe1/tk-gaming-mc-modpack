@@ -1,0 +1,13 @@
+name = "Seaborgium"
+filename = "seaborgium-mc1.18.2-0.1.3b.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePiELTnX/versions/D7R0P46r/seaborgium-mc1.18.2-0.1.3b.jar"
+hash-format = "sha1"
+hash = "7a5f12048ac27862cb6469fd892e5e80fa31e39e"
+
+[update]
+[update.modrinth]
+mod-id = "ePiELTnX"
+version = "D7R0P46r"

@@ -200,6 +200,11 @@ hash = "3a6cd9b5dd610bb86f7278e1109ec47ccd5c97989ced663d068a1b4f176046c8"
 metafile = true
 
 [[files]]
+file = "mods/seaborgium.pw.toml"
+hash = "c68a683c84693266635203a30cdf5082fa2f7175dec01228a8179bc1c258f2e6"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "529c82bb9c085fb98ee4e428eec8de8cd6d9563295ce80c7afc6c4c53bd7de8b"
 metafile = true
