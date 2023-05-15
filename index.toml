@@ -110,6 +110,11 @@ hash = "fbb0a9e7d2930e91c49c7ea9ac56aacd4475169c0b50b463245c2a2b2eb24c11"
 metafile = true
 
 [[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "5fc5e2b2572dcd8073a24cf0a7c5cd089bff12666693e16cd243648f8cce9da3"
+metafile = true
+
+[[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "8b8f7f9f18270cbf648dd79c0447cc3ee382269ab90913e329acbe6eb59fe3c3"
 metafile = true
