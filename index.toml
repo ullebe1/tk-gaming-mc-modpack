@@ -195,6 +195,11 @@ hash = "2fe5c063db5622e0e0a56f739230471de2dd26e08ec80d74fb9c5b2afbe67dc3"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "3a6cd9b5dd610bb86f7278e1109ec47ccd5c97989ced663d068a1b4f176046c8"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "529c82bb9c085fb98ee4e428eec8de8cd6d9563295ce80c7afc6c4c53bd7de8b"
 metafile = true
