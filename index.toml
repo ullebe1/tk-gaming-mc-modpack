@@ -160,6 +160,11 @@ hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "9361b0cbbe27f8a0b3ef350a1840473be43c071d1260374f480018643039f65b"
+metafile = true
+
+[[files]]
 file = "mods/more-mobgriefing-options.pw.toml"
 hash = "1a6c4031b65b1e9192a81173b401f251807d14f428b4457fa537067036f40794"
 metafile = true

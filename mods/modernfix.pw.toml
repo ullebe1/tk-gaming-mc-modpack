@@ -1,0 +1,13 @@
+name = "ModernFix"
+filename = "modernfix-mc1.18.2-forge-2.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/JofM3ehE/modernfix-mc1.18.2-forge-2.5.2.jar"
+hash-format = "sha1"
+hash = "9229d0c260ffb13a9c2ae8fed7d69fa9815ad5ba"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "JofM3ehE"
