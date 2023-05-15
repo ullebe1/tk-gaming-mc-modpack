@@ -140,6 +140,11 @@ hash = "016c3bd999966ba94a21728e252bcbc2015ed4729596211f0cbf626e532b4583"
 metafile = true
 
 [[files]]
+file = "mods/lightspeed.pw.toml"
+hash = "12925ade9a4f43f6fdfa4bf477f17fbb386c9d4a069c7683b702ab40853f7343"
+metafile = true
+
+[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "93261262c8a2ea491c940708777edc0fc3009f8d9b0b10c431e8b8b90c96564d"
 metafile = true
