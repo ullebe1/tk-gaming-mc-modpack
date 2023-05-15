@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/easier-sleeping.pw.toml"
-hash = "4d264051a17d4df4646fdcc15ef40bb9135d81f161240798afde4166179017ac"
+hash = "e0475f092b28454d053d599c920e0830a8e1ef3d64351a17b0effc72cdb890e9"
 metafile = true
 
 [[files]]
