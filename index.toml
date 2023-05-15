@@ -120,6 +120,11 @@ hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "016c3bd999966ba94a21728e252bcbc2015ed4729596211f0cbf626e532b4583"
 metafile = true
