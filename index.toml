@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "9c4220351f55066df11385af61701efba1b99178d6c925167f186e5841ce2cac"
+hash = "807613c2223630eb904fbca79a0926781cc90f58a21fce12454ad19c14880df3"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/pluto.pw.toml"
-hash = "3e2a43f6da4c71e21990ef674dbc06dd393c53c011368f893baebda82633182a"
+hash = "f09534f98487d67cefaa9f7ebfd419c5601113b6adcc22f57df97aa487b5f04c"
 metafile = true
 
 [[files]]
