@@ -1,13 +1,13 @@
 name = "Dynmap-Forge/Fabric"
-filename = "Dynmap-3.5-forge-1.18.2.jar"
+filename = "Dynmap-3.6-forge-1.18.2.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "de054719686a4193b43bcf684f26862555dfc343"
+hash = "e94b5829d8993902d392bc6ea4824340b2cc9dea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4512897
+file-id = 4632215
 project-id = 59433

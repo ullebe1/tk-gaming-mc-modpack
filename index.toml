@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "807613c2223630eb904fbca79a0926781cc90f58a21fce12454ad19c14880df3"
+hash = "4a90bb7e6255dc9aeedf23fa4f1572ed6f846ffe50f6e0f2c9466dfd206767c1"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f2d594d255ceeadc94b32be5200741b8a5f237fc65848da04e131f2b8970e6fd"
+hash = "b75e4203963e600df0d18a16b77ed024da0323a08d04a153b52563728eafb852"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "e5fdf73b00092f2c84c52bab611ce912e0c29c9fde0c6fb00007ac3b05807d76"
+hash = "4c2e6f08edea166299c4248899190c45206cb5cb33ed83b6b5d9e18d9b217ba6"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmapforge.pw.toml"
-hash = "79e8e63e3e69c45b323d7524e500a48302da6301fe32fdcb062fd7c67e514211"
+hash = "567035fc028d9c698d82bb8d3a35f126597e99a7d5f3edd59c14fbccdbae88e2"
 metafile = true
 
 [[files]]
@@ -110,18 +110,13 @@ hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "fbb0a9e7d2930e91c49c7ea9ac56aacd4475169c0b50b463245c2a2b2eb24c11"
-metafile = true
-
-[[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "5fc5e2b2572dcd8073a24cf0a7c5cd089bff12666693e16cd243648f8cce9da3"
 metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "8b8f7f9f18270cbf648dd79c0447cc3ee382269ab90913e329acbe6eb59fe3c3"
+hash = "7fd6bc3e0bc4c45ca6ba8beef3c66393f9d3643d51e0dfc3c302703e2b221f46"
 metafile = true
 
 [[files]]
@@ -141,12 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/lightspeed.pw.toml"
-hash = "12925ade9a4f43f6fdfa4bf477f17fbb386c9d4a069c7683b702ab40853f7343"
+hash = "8036b6395c91194b453dd99221066cd03c7d728b9c9bd861461f63fa582b1e79"
 metafile = true
 
 [[files]]
 file = "mods/login-protection.pw.toml"
-hash = "93261262c8a2ea491c940708777edc0fc3009f8d9b0b10c431e8b8b90c96564d"
+hash = "734a405a28d54bba50e809bf781fbcc30514a521e5cd3af03463b17d69ba96fd"
 metafile = true
 
 [[files]]
@@ -161,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9361b0cbbe27f8a0b3ef350a1840473be43c071d1260374f480018643039f65b"
+hash = "2ad5972bfb990ea3eadce58c184f8c3da2c53e845820b778322133eee98604f9"
 metafile = true
 
 [[files]]
@@ -181,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "42a30fb9d06cd57832d8c8cc44132342d7636acb79842624e84ed21094122236"
+hash = "93a9397e7f2b976eed930d34e9fd76dfdf69fe47f70530e2ac9c536b58d23623"
 metafile = true
 
 [[files]]
@@ -205,11 +200,6 @@ hash = "3a6cd9b5dd610bb86f7278e1109ec47ccd5c97989ced663d068a1b4f176046c8"
 metafile = true
 
 [[files]]
-file = "mods/seaborgium.pw.toml"
-hash = "c68a683c84693266635203a30cdf5082fa2f7175dec01228a8179bc1c258f2e6"
-metafile = true
-
-[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "529c82bb9c085fb98ee4e428eec8de8cd6d9563295ce80c7afc6c4c53bd7de8b"
 metafile = true
@@ -226,5 +216,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d1ce029a6fbd565af4e1f20141bcb4e9904c400be662ce7b0900cb379a78eea7"
+hash = "208639b449d76824225762d3d0e831eb1821c4927272ea99ea2e69fe27a70335"
 metafile = true
