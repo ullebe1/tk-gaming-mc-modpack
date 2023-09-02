@@ -50,6 +50,11 @@ hash = "28e8168a20c3e921253d1b4e967b763b04c4363c7ea9a26a1fbe27eb2d4afdf6"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0388f779d259fafdf03847e78cd35e3dec3d548ae5b85bda2b0eb75618c21f6c"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "4a90bb7e6255dc9aeedf23fa4f1572ed6f846ffe50f6e0f2c9466dfd206767c1"
 metafile = true
@@ -82,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
-metafile = true
-
-[[files]]
-file = "mods/dynmapforge.pw.toml"
-hash = "567035fc028d9c698d82bb8d3a35f126597e99a7d5f3edd59c14fbccdbae88e2"
 metafile = true
 
 [[files]]
