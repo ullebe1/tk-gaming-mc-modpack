@@ -11,12 +11,12 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "535d312128e500ea510af84dbf65008ae48f4d9640be713088c3d00a99ef1f7d"
+hash = "6d782ea5149607907b103d5752a0f4f1ca49382495ea26c4090a40a5221bf9ad"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4864451af376b26104b421900f69a0bea7c462edc2e47e359a341dbc457f3508"
+hash = "5438581aa8967b7ce1fd496f02e058b27855ccedef2f5b3dbb197ad41ae3931c"
 metafile = true
 
 [[files]]
@@ -51,12 +51,12 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "0388f779d259fafdf03847e78cd35e3dec3d548ae5b85bda2b0eb75618c21f6c"
+hash = "764d27a71cc7dc707a6203eba9438bf9544d828a0e454da15a9ef81d144bb825"
 metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "4a90bb7e6255dc9aeedf23fa4f1572ed6f846ffe50f6e0f2c9466dfd206767c1"
+hash = "17f1275c22e2e4710cbfc85327e26b946f13b6fb11fedff4e00b0b85d613e61c"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4c2e6f08edea166299c4248899190c45206cb5cb33ed83b6b5d9e18d9b217ba6"
+hash = "8cd6e0ba62f3f5962a824170bbf52fd502cbfec5b861fb24757e8283dd351fd1"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7910dc985555b3c7b0877b4511680bef4a4fe347100f1828ce4818fc0ffb075c"
+hash = "c99f79cf75fe12ee5629034325ca79724cddb52f2623499f1de513b2339dc2a6"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "3a6cd9b5dd610bb86f7278e1109ec47ccd5c97989ced663d068a1b4f176046c8"
+hash = "3c1097e1f3ec461cf5fb2610052efae602315e2a9783d839acb6b85168bb3681"
 metafile = true
 
 [[files]]
@@ -211,10 +211,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "82ccf212af66c3dde1e5881648d10d7f8d563ed2f15ca9a31870f3509ff9430e"
+hash = "0737fd32ffead86e1dd172b55124f234302b09e2083695991804724fc9cbf0e0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fcc1a1b65ac4b67261e555acfb855223cd7c5cf52bb50c12d42b033d05d0808c"
+hash = "08c551300ce2585270b71b8898126ab7d4c09d4570386be03632cf39d492a734"
 metafile = true
