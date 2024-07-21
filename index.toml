@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "d32925cc3cd59d5dba62722f87e0efb4d149f45fd492f0374a72537c6ff99a75"
+hash = "b06da637daa56a44677cc25532f860669082d2e706a4a29cbc16cce14199c80b"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2ad5972bfb990ea3eadce58c184f8c3da2c53e845820b778322133eee98604f9"
+hash = "7910dc985555b3c7b0877b4511680bef4a4fe347100f1828ce4818fc0ffb075c"
 metafile = true
 
 [[files]]
