@@ -1,13 +1,13 @@
-name = "Better Ping Display"
-filename = "BetterPingDisplay-1.18.2-1.1.jar"
+name = "Better Ping Display [Forge/NeoForge]"
+filename = "BetterPingDisplay-1.21.1-1.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "9c2df44339046b5194f68378b4f0c45a2a7e3337"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar"
+hash-format = "sha512"
+hash = "301362230f1e66a6725eb20fae106435f2d9561df631a54091956b052f9a2111a230b238dbeb0ae58a5bfa261be43474ab40315e50eebeeacef5a592e2c3bfbb"
 
 [update]
-[update.curseforge]
-file-id = 3735839
-project-id = 292038
+[update.modrinth]
+mod-id = "ZvaHbwoZ"
+version = "AzKubcBR"

@@ -1,0 +1,13 @@
+name = "YAML Config"
+filename = "yamlconfig-1.1-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L1FFB418/versions/H8CSS6qa/yamlconfig-1.1-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "76b479a73c344a3c0fe2c767df01cebd41f45de68a64e0f182312111c20bc7abceb59ad807f41e21d387b49535f45c570f58a4305755bca81f3792114e06f948"
+
+[update]
+[update.modrinth]
+mod-id = "L1FFB418"
+version = "H8CSS6qa"

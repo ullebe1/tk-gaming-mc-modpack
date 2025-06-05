@@ -1,16 +1,13 @@
 name = "TK-Gaming Modpack"
 author = "Ulrik Boll Djurtoft"
-version = "1.1.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ab2c1efaa2178566c5ee0c951f91d693752137e0706684f1059d85e021f465d4"
+hash = "e7d1a2a40358a8d1752d4d931a7def6a51d493119ea556c15557deb7501ac817"
 
 [versions]
-forge = "40.2.21"
-minecraft = "1.18.2"
-
-[options]
-acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]
+minecraft = "1.21.1"
+neoforge = "21.1.172"

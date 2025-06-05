@@ -1,13 +1,13 @@
 name = "AI Improvements"
-filename = "AI-Improvements-1.18.2-0.5.2.jar"
+filename = "AI-Improvements-1.21-0.5.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3f75bd844fa9ef364bd93605067ab60ac0e699f5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DSVgwcji/versions/dGNP90t0/AI-Improvements-1.21-0.5.3.jar"
+hash-format = "sha512"
+hash = "ded870e90953ea915d24ac4c81799b95b321dda39936cd4cd620302b48882141fa3b9f1af658bdc6c25dc48de003223b91f3669b69efcc92c8666a3983f0fccc"
 
 [update]
-[update.curseforge]
-file-id = 4019126
-project-id = 233019
+[update.modrinth]
+mod-id = "DSVgwcji"
+version = "dGNP90t0"
