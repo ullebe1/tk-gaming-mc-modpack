@@ -9,11 +9,6 @@ file = "credits.md"
 hash = "8e297fcedee23aefe81776a7f03aea23b17a342560495b1a933f139cbbfcd266"
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "5e62bb12eb55e4575d1ca5e3570b5cc18473138973c80ac7093e61e459339db1"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
