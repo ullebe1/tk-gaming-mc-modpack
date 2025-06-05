@@ -364,6 +364,11 @@ hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "b0bf15dd5f0d5ce70c26fbd76cb2a25731e06a15d9a488bd68bf2f5037aa334f"
+metafile = true
+
+[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "0cbfee517ef794590c79f407c060a42f9719e8533f730411761d3d429463af03"
 metafile = true
