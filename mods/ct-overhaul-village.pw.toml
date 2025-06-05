@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/2uaRdli9/%5Bneoforge%5Dctov-3.5.9a.jar"
-hash-format = "sha512"
-hash = "e66daf33f52e20d43ea400a12493da0fba36dba739b541cf04556c39c6a05600832847db8852e59f79156563e2605d99c43bd9fd51659a0e137661e95379359f"
+hash-format = "sha256"
+hash = "fbc1163ee349905c42bc34c3b13bdfca1018784671ed054b511bcb016f20902a"
 
 [update]
 [update.modrinth]

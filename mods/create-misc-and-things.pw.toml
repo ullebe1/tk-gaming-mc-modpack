@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uWrs8XlB/versions/5pDtp9Ho/create_things_and_misc-4.0-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "99fbd84fa7cb79d7d10a237fbcb0816e04f1c1525c7ab493ac123ca84b7cc27bb013051d3a95f8521c626a9c269be5f40df010850b365c71421538435cf7cc16"
+hash-format = "sha256"
+hash = "db539edd42c0ff9979240a5ecef33756742a2ae35959f1c0985f1630a66e18ba"
 
 [update]
 [update.modrinth]

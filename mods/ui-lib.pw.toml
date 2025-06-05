@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/AOEDs9Al/versions/S8Zqj68a/uilib-1.0-1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "2438eb5e2f81e7277b2c01a0b43886a6913fcef5853bdb6af8e195eb0617cb0d0645f75044314e9464db57c2194e9466ee2e8e92e66cfc8751580d734e02b874"
+hash-format = "sha256"
+hash = "b5ceb72cb569a337663ec2d5e01c25ee59cc82b4ce92a83e7a38dc91e4304567"
 
 [update]
 [update.modrinth]

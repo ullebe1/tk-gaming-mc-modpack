@@ -1,0 +1,13 @@
+name = "Higher Heights Datapack"
+filename = "HigherHeightsUltimate4064_1.21-1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/neXxXU3U/versions/AI6E6UNc/HigherHeightsUltimate4064_1.21-1.21.1.zip"
+hash-format = "sha256"
+hash = "21c1f5445775f51e181abce9cf0924e2ebe9d5f8f1bde4e14eb0001c79947faf"
+
+[update]
+[update.modrinth]
+mod-id = "neXxXU3U"
+version = "AI6E6UNc"

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5srFLIaK/versions/Uz5SwDCS/better-clouds-1.7.13%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "c80d99671a474414eedf7e38d8b1694f90af99ccaf0acfc7ee0df827b7a6023d3d984f08a8614e4b00fb28e5679ff9df2e42256ce4acb1e720b25b094e271785"
+hash-format = "sha256"
+hash = "762cfa0197fda89f1485e0d26d85b53a852ea5943a080055399cb18f476cfe52"
 
 [update]
 [update.modrinth]

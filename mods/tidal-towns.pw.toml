@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EEIwvQVo/versions/qSePi5HH/tidal-towns-1.3.4.jar"
-hash-format = "sha512"
-hash = "b280128058f6402e0f7ed55000415c75d0c2ccfc01262314812fad4d463562f7f94975143bc5d3b596c8d6c86b9ecd34fb89ee99fce1fad3356de979262f92af"
+hash-format = "sha256"
+hash = "d7b3d34659279730c130c6493d5ebd5dfa0f64f552b1ed187ca6e35141a4d2ee"
 
 [update]
 [update.modrinth]

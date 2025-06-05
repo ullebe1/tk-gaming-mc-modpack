@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/tHmlPJQE/versions/9spriai4/necessities-0.1.2-1.21-neoforge.jar"
-hash-format = "sha512"
-hash = "c7eb23febd845fa7275f5e5507baf71c124431227869f592c2c1fc984cc50910dc2dcdfdc27791db3a2d908b904c520e367f9d51f03c9332403e0e0e3b307f06"
+hash-format = "sha256"
+hash = "299f0fb18615c607d5b0692bd72709ef2de6108eba1303bad97411a54e3e5010"
 
 [update]
 [update.modrinth]

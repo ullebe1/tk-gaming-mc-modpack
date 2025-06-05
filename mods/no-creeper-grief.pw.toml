@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/flHpkyzN/versions/qYqbj3CB/no-creeper-grief-v.1.1.0.jar"
-hash-format = "sha512"
-hash = "c105566d680e0ce2207e92495d62b13575c8383246b661a4ad68c7b3c0a926f4aaef35f6ccd275f4a4f957dce1c0171dac438aa8cf2c7c4fdff7ec9480dc11f9"
+hash-format = "sha256"
+hash = "06fcb0c835a81e7841f595cf29ceaccfd0073d593d65e6e4c5d20de37ba81cf2"
 
 [update]
 [update.modrinth]

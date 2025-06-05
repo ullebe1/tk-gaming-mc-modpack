@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar"
-hash-format = "sha512"
-hash = "301362230f1e66a6725eb20fae106435f2d9561df631a54091956b052f9a2111a230b238dbeb0ae58a5bfa261be43474ab40315e50eebeeacef5a592e2c3bfbb"
+hash-format = "sha256"
+hash = "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b"
 
 [update]
 [update.modrinth]

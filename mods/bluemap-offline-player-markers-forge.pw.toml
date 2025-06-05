@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/LFSk55jv/versions/FdRfcpW0/bluemapofflineplayermarkers-neoforge-1.4.1.jar"
-hash-format = "sha512"
-hash = "c976db507162e7588e64f5ab23ce5f0a360ada718dc0a403537fa25393c0f4c755202ad1f1a58afad6ab19b549368d0707b9cb793b9bddfb25f71fd049544550"
+hash-format = "sha256"
+hash = "8a9bffd6018a89b36c67505a64af3bd8c2f1570179ca1d10a492f5ccb94109c1"
 
 [update]
 [update.modrinth]

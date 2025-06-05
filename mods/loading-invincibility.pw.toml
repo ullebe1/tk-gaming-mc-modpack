@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tdBEIHqm/versions/YyP7lX9i/loadinvincible-1.1.0.jar"
-hash-format = "sha512"
-hash = "79d68bae4d0f0df1a145241f3b7359790b5759c31110e9aa4c3fc94ab10cb5627dbc875c53147147cdd00b032d617421ee468aa28669ca72c55ab67ce460fc71"
+hash-format = "sha256"
+hash = "1ffb6d67ff4a1fde240f4ba13cf9fb557d81f757f3dcebe37adb9579568e7665"
 
 [update]
 [update.modrinth]

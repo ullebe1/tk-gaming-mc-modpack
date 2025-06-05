@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/L1FFB418/versions/H8CSS6qa/yamlconfig-1.1-1.21-neoforge.jar"
-hash-format = "sha512"
-hash = "76b479a73c344a3c0fe2c767df01cebd41f45de68a64e0f182312111c20bc7abceb59ad807f41e21d387b49535f45c570f58a4305755bca81f3792114e06f948"
+hash-format = "sha256"
+hash = "554447daca43960808b273141d0219f2cea96b1c47c9d1cc68ae2fec080503d5"
 
 [update]
 [update.modrinth]

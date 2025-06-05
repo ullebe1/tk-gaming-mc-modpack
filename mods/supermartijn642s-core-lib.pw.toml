@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rOUBggPv/versions/I55kQvEh/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar"
-hash-format = "sha512"
-hash = "6f37d2f76928f1421d7ec4f60dead6ad806606f7a25f0545c547316513284f309396b221749328579c76d75a70fdf22e6f953b27abc5c78f2c2d68f2dfa545bb"
+hash-format = "sha256"
+hash = "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420"
 
 [update]
 [update.modrinth]
