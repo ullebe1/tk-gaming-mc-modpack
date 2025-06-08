@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "bd1171cacfd00e1a9ade0fe6a21cb2a991f02377bc528a74f6942d4c689382c7"
+hash = "4251cec80cb5687d2b0b2c2fe063b1ea9a7511c83ed22824342770919ea91feb"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c829b811c9e11de2c0d47994790439b14598055112d6f58ecb76344b5970f549"
+hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
 metafile = true
 
 [[files]]
