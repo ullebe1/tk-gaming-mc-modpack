@@ -70,7 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "6f054c15cf255b67d9ae0a7f416a28b96420840f7fbf0e7e73981a43583680c4"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
+file = "mods/bluemapfrontiers.pw.toml"
+hash = "2ebf0704a4a9e3306024ec070800068cd653154db8b250e907bf39f7485bf6c7"
 metafile = true
 
 [[files]]
@@ -174,6 +179,11 @@ hash = "d8ce32a3f2d6245e77ba87a7c8741c3673399d958a529b6f8bf2ff35cd0bb277"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "71a13b97580c7e077d1f0c279e8888fc11ae59f9a3a29852d2cb222d37c12ba1"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9da240b44435255404eac2f8a2705ebe5f5934d0ec96724fbe3d4194d7505c28"
 metafile = true
@@ -224,6 +234,11 @@ hash = "44b2a7d3741aaee326e07695f9be295d881cde0c3cb13829943a58ad65bdad63"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "ae66866cd5017cb9e2fb7d45718cfcf041f3aa93484ec4a5cd3fdd894651e53a"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7cd50733dde04e74fa7521d654b9efde3ea7c0bae745c8050ae51fc18334fe25"
 metafile = true
@@ -246,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/loading-invincibility.pw.toml"
 hash = "48961953fbd9d532f47feb08a08ecf4d0a25c31cbd24942959506eaa78313ab1"
+metafile = true
+
+[[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "445e2dfe958922cd28d028e516fd2b6543b6c11512f93614982085d478d23384"
 metafile = true
 
 [[files]]
@@ -421,16 +441,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "0c8909d81a5e6143f21d14fc343d33d26315058e4508b61911960bb7b476f379"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "46e890e7fe8518dec172b33a3da982324db47e8b9b2782f184ff235a16c986ff"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "f648d95619341bb0f6f201cfbe292f25a2347bb5a587a90f5d195eb44ad1f29b"
 metafile = true
 
 [[files]]
