@@ -425,6 +425,11 @@ hash = "5240382cf4b2f9391876b8c2100ba86db1650c21eba258285d3a004043faf70b"
 metafile = true
 
 [[files]]
+file = "mods/waygl.pw.toml"
+hash = "386d7a0d0a2f7b05c45a067d5e227610b1cbf377e6485b5b08516923ec2cfee4"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "0c8909d81a5e6143f21d14fc343d33d26315058e4508b61911960bb7b476f379"
 metafile = true

@@ -1,0 +1,18 @@
+name = "WayGL"
+filename = "waygl-neoforge-1.1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTzhksrl/versions/FCBQ6H1W/waygl-neoforge-1.1.6.jar"
+hash-format = "sha512"
+hash = "6b35d017ff99f1b56f106ef072ee510b5eff32c860554be2643a6fd1f1785eb92bc569dcd2e8d183164f18c83fab4a0451190fff32f480751534646745b39d41"
+
+[update]
+[update.modrinth]
+mod-id = "XTzhksrl"
+version = "FCBQ6H1W"
+
+[option]
+optional = true
+default = false
+description = "[Linux only] Adds experimental Wayland support to Minecraft. This mod is in early development and may not work as expected. Use at your own risk."
