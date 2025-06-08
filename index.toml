@@ -10,10 +10,6 @@ hash = "d058f744fed01ebc86b7c140557a26cd42d263c7ba5a6282457a1c84798faf37"
 metafile = true
 
 [[files]]
-file = "credits.md"
-hash = "8e297fcedee23aefe81776a7f03aea23b17a342560495b1a933f139cbbfcd266"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "a7de15b1b38eb154b0799b8dc2a9d1a021dbc0940e7575959f8fd38e015465cb"
 metafile = true
@@ -209,11 +205,6 @@ hash = "3fda61c17e35a8f4023365b9e0af79f43a7e40423e0298208483096feb2d0888"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "74fe3bc37bcf01561a02380cd0b5c5b28161907eeee2edc8698fa552b4295bbc"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "2826362cd2cc71fe983317739c88034fc36296c74d149e5f8f474cbb5bc3d95d"
 metafile = true
@@ -356,11 +347,6 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "2dfc8a4acd046d486439f460e7161b7de11b530d0ef4c82282059491d2eb0132"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "720b0bce4e049fdb4d88339f1204f8d4f38ac1e7203f02b00bc1b77ba096ac49"
 metafile = true
 
 [[files]]
