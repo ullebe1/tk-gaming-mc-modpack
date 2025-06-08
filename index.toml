@@ -84,6 +84,11 @@ hash = "8d2337ac0694f7bea8faec13742826dbeb82d8d6ed021bcc6febdb59e3da04f9"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "335d98debb12256815368fb77a3bec68b017c1bbf5969763087cd96f43c9a6ae"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "fe127a6927e3b15b8503102cf377efb25f1eac5a110997003cb06e123ad210d8"
 metafile = true
@@ -101,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "1f3cec6e65c2a987d8167438d363f882699e4a9881f0e3063762dbd48ef2d125"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
 metafile = true
 
 [[files]]
@@ -151,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d447ef3730be631a3dc319e7cb7b9181f653ed2195784e6edc41d0b161950663"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
 metafile = true
 
 [[files]]
