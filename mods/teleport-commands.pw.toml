@@ -1,0 +1,13 @@
+name = "Teleport Commands"
+filename = "teleport_commands-1.21.1-v1.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ne670on/versions/p1Z1R8t5/teleport_commands-1.21.1-v1.3.1.jar"
+hash-format = "sha512"
+hash = "a7c40c6043393022aceb04faeb0d4826bebf49044e18caa7e26e9ebf41e22a1a7467e61b7696f50f0ab7e0bcfb9faf455acab4d8a163a4c2c394d550f7d9962f"
+
+[update]
+[update.modrinth]
+mod-id = "3ne670on"
+version = "p1Z1R8t5"

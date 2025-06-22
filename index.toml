@@ -405,6 +405,11 @@ hash = "a30685cd453f7892da10be9c7c61e5497c3a494b0861dcd6d243edc13f0bcdcd"
 metafile = true
 
 [[files]]
+file = "mods/teleport-commands.pw.toml"
+hash = "8170e4bd41b239d11f35eacf2ccf3ad6e0e271ba73664c4b4a6f8876e39cb54e"
+metafile = true
+
+[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "4f8e4e7674a017852c583e9fc95f830fa870f40d4ebf29db362120711048c6cb"
 metafile = true
