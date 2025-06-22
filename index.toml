@@ -280,11 +280,6 @@ hash = "8e8f71f1e69d70e0ca03b9933fb8fdffe2be3e93ae351d018d2bca8899b22515"
 metafile = true
 
 [[files]]
-file = "mods/necessities-mod.pw.toml"
-hash = "d8e42c9f8b53941ceca589b008bd466cc6f6518b4c9eb03ae9a2e6c91bce8542"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "f510b143e3bd823f8337e6bf8736fdcb02454adf457595eb40380740c4d1b683"
 metafile = true
