@@ -40,6 +40,11 @@ hash = "dcb55a7a093a1fe011229f836f36bc28a6f276993d19501b945a6efd13d3ec0f"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "44f206e8c4efd23c7f56fe8f1616f74da9f5c154cc1f3ab90f8caa88e6db0930"
 metafile = true
