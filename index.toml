@@ -150,11 +150,6 @@ hash = "0e66a68e1ce694c62fc12b5aec8eed10970c39bd7a4e277171f56f067001cd2a"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "d7fb4b1803c7eb693470fa38514d6479fcc434876af70c3a7b9a87eba24b81f1"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "d7b4ab56ed4aef41cdd9c1c41173cf754cbf3966f362a9912cf6e846892ab6a2"
 metafile = true
