@@ -1,13 +1,13 @@
 name = "UI Lib"
-filename = "uilib-1.0-1.21.1-neoforge.jar"
+filename = "uilib-1.0.1-1.21.1-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AOEDs9Al/versions/S8Zqj68a/uilib-1.0-1.21.1-neoforge.jar"
-hash-format = "sha256"
-hash = "b5ceb72cb569a337663ec2d5e01c25ee59cc82b4ce92a83e7a38dc91e4304567"
+url = "https://cdn.modrinth.com/data/AOEDs9Al/versions/IduTxhAE/uilib-1.0.1-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "3b86c07f7f62a27e1f5c1033b94a823b4eb12647f2ef203309f80b30e7bcfb346bd5ce2efccae321381c09800a6aae93c307a63f462d41e0a5214b5eea2c3c01"
 
 [update]
 [update.modrinth]
 mod-id = "AOEDs9Al"
-version = "S8Zqj68a"
+version = "IduTxhAE"
