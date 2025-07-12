@@ -275,11 +275,6 @@ hash = "47bd76bf716bc1ac8c62357d0958fd68872ae318d6713b04acdc49c1f19fdd47"
 metafile = true
 
 [[files]]
-file = "mods/mpem.pw.toml"
-hash = "d17779adeeb3f6e788b92a228f811a10682b964fed3efd8c0c6acdf012113423"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "8e8f71f1e69d70e0ca03b9933fb8fdffe2be3e93ae351d018d2bca8899b22515"
 metafile = true
