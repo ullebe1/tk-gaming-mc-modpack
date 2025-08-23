@@ -145,6 +145,11 @@ hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "2febef0c7f81e942c70bb74094cd63d91bc4fda5407161b748eeac514fda8102"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "0e66a68e1ce694c62fc12b5aec8eed10970c39bd7a4e277171f56f067001cd2a"
 metafile = true
