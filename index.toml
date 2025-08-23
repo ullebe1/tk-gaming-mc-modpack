@@ -105,6 +105,11 @@ hash = "8c87fffa96f44b1c3cadbb1e5589e3a32d4c77720dedbf26f20dcbcdb9607a62"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "9da820e4bd91294a900ec2c2859fa8ae261a573922df3a15ca64cb838c76df9f"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "1acc014a61a49eccd1029d812882a8e8f4582f278484a4d498b3de5c2db08653"
 metafile = true
@@ -492,4 +497,14 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "f39076993b1cd629f7e7db358383f5cdfd5f8cf4d41db2120e1ed659d8b1e161"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
