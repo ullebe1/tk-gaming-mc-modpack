@@ -285,6 +285,11 @@ hash = "47bd76bf716bc1ac8c62357d0958fd68872ae318d6713b04acdc49c1f19fdd47"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "8e8f71f1e69d70e0ca03b9933fb8fdffe2be3e93ae351d018d2bca8899b22515"
 metafile = true
@@ -392,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "49d48cbe1453c185cc4eb55527e9f5ff933221c15e3441d229cda11c56781e0e"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "51cef49af40c393675b8efed583e315055ec9010871a9f64f4524202ef864ef9"
 metafile = true
 
 [[files]]
