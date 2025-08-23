@@ -180,6 +180,11 @@ hash = "d8ce32a3f2d6245e77ba87a7c8741c3673399d958a529b6f8bf2ff35cd0bb277"
 metafile = true
 
 [[files]]
+file = "mods/flw-vanillin.pw.toml"
+hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9fd94d5c7795e107b83952c6f21c1995c81fd200ede7fa68c530baedbee837d"
 metafile = true
