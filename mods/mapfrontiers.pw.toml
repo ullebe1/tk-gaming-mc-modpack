@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hWlsli6y/versions/nFy4G1cP/MapFrontiers-1.21.1-2.7.0-beta.14-neoforge.jar"
-hash-format = "sha512"
-hash = "f77863d03b83a4fc849645af3b061196fe8a939001c5a90da516e2126f84722a2044601c91623d90ad40a16eed192d2490e7dd9d9ed9a18894e6352f760c21a4"
+hash-format = "sha256"
+hash = "7173b903d8c20f03798158d8391ee635777ba85b2d5b0b73e44775408a65ca7a"
 
 [update]
 [update.modrinth]

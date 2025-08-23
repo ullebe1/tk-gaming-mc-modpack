@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/jF0HWFDB/colorwheel-neoforge-0.2.3%2Bmc1.21.1.jar"
-hash-format = "sha512"
-hash = "297d252f8e5b01116832a6e867c7a3b159bdb984a58f8c07baf2598915e91c3c23369065bcf763c655ea23849de8b791b5ed945f1a70d63292d647dbc704cb94"
+hash-format = "sha256"
+hash = "ce78aa31cad775f22d6dfc8ed3b5a65a68455b7eaf57eac18d2bff52255ca672"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/jGBdTRi5/prickle-neoforge-1.21.1-21.1.10.jar"
-hash-format = "sha512"
-hash = "26a441f853cd3a7f2fee1456921f8afff88eeb7e4e332cda8e6cd934fa9c2214792533302b0eec2abbea555e9f49f21e2e0246888811f7a3a15d3f467e84b293"
+hash-format = "sha256"
+hash = "92a5651e30a714fe972a35d8729a4ce3cc38ea3c77c58b88ce03d28de84d2974"
 
 [update]
 [update.modrinth]

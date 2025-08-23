@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/9MsWDFTs/bookshelf-neoforge-1.21.1-21.1.68.jar"
-hash-format = "sha512"
-hash = "60612ee3579cc60c836bd4576eb2746c20eacbb6c36e0351aa3ce091c16c0b9c6fea13a8b47644a3da167da0a6d719fdfbc722eaca8f61ffe03a7fe16bda8a99"
+hash-format = "sha256"
+hash = "4a834604aca3487681e8a635e9c00377168d4bee355d88236de93887dfa991bb"
 
 [update]
 [update.modrinth]

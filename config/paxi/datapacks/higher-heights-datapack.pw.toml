@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/neXxXU3U/versions/QjqA3kDb/HigherHeightsUltimateDefault_1.21-1.21.1.zip"
-hash-format = "sha512"
-hash = "792e94780110ce7fc80baae3e2cd5749566c4c2999d5981d23d7d938b1c5203a13f359621bb2f60c3a280e47796418fc57a55e4a47dccee51cf7458639d186e7"
+hash-format = "sha256"
+hash = "e42097f7be116da55dec5bdce01e18b912dc508ea5b9e5eb74f71375b7418556"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/E6867niZ/versions/nVRC1t23/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar"
-hash-format = "sha512"
-hash = "5fcb978c04e3bff7b5a60e2589f0fd206169c6b26828a3c310aeb93d52ec93f594986006ac2d507d049a3b9ac8d1089a255034c7c7948cd3945b135581ee6cce"
+hash-format = "sha256"
+hash = "a9bb3a70c3a7356b1cde0ad598927ad22992b54b4e7b05f2cedb4f2c17cb2381"
 
 [update]
 [update.modrinth]

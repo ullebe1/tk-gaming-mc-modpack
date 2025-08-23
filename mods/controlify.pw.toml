@@ -1,12 +1,12 @@
 name = "Controlify (Controller support)"
 filename = "controlify-2.2.1+1.21.1-neoforge.jar"
-side = "both"
+side = "server"
 pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/tC8NSupE/controlify-2.2.1%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "1b3bc3cab795c92ff2717e01d0a15938d2f56a39a9110b1133ef2f8d382827643cb4325e4f80b5627355282c73b98d9467f7ed9215bc7acd97841d9ee552e3a0"
+hash-format = "sha256"
+hash = "f2a646a15a6bd71bc56b72d5d73d209d44c679d1672212b47b2f1bf251bd0118"
 
 [update]
 [update.modrinth]

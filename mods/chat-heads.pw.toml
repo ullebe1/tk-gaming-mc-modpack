@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/1XG8Av88/chat_heads-0.13.20-neoforge-1.21.jar"
-hash-format = "sha512"
-hash = "a41d869cb59b9ef1217895bdac4ef8f22007f1c330ba68b255f840ee8c776fa5e8929cc2fc80ace5476134e47a0dd9dbbb6b0b03b45e2bf2f6f8c6fb2b6ef4c0"
+hash-format = "sha256"
+hash = "ba105f86d705e2833de5f7e39df92f6fb20f144f9d49973ab722afd4c8cdedd8"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/FGSQ1xRs/smarterfarmers-1.21-2.2.3-neoforge.jar"
-hash-format = "sha512"
-hash = "07b613a1ad23aa33415b6911ed0fcc9e1071573a04c0230622032f523a2afd0c3656f6bd8fe890c38a6ef0e2b32489835495658bf72b3f2ca1e4694fb70d0c90"
+hash-format = "sha256"
+hash = "14fff360648d700a98e2d7cd5823db85934c99ca5fd235fed8ac1ca3154fc5db"
 
 [update]
 [update.modrinth]

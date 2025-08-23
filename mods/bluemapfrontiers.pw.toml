@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/OGGG6gVy/versions/HXrJlKC5/bluemapfrontiers-1.21_neoforge-1.1.0.jar"
-hash-format = "sha512"
-hash = "6f1e4cc41b5d9178319ad807dab65d0e206d92d3a6ab5ccc361e67e30ca36f9c1d1bde629dcfd7280d47c38707f116e09cbe09fa9955d8feb87e3aaac37fec20"
+hash-format = "sha256"
+hash = "99608ee2c25018d041224fe1aa1b20caf9df3ce5b5c1a40a011a384db4e66ae9"
 
 [update]
 [update.modrinth]

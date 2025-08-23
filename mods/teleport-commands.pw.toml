@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/3ne670on/versions/PfVhPuLn/teleport_commands-1.21.1-v1.3.2.jar"
-hash-format = "sha512"
-hash = "ec66ce27c6ad3ad16c283edad36ea8ffd3af03f69c1d24fbd172bb69e3b6b092930c836054bae4141e08f9542c1bbc25096204c7068ad614435ff2e26db20404"
+hash-format = "sha256"
+hash = "73df7dcdfebd7a5a7fc14aa4248461bded7169f2dc5fd7ee3cff4c3629f9cefa"
 
 [update]
 [update.modrinth]

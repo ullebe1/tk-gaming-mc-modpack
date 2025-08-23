@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pvcsfne4/versions/fiutyOpb/chefsdelight-1.0.4-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "5253bfcc9c85b5d83193aa3abfd3113d62b2c12ebbd373deacd4eb21d8bff1d05bffce849d36d717bec1aeb56427616015f1deb8f767fd4837782d99e78c1b33"
+hash-format = "sha256"
+hash = "3387c7549e937fbb7f8f0cb1d71f9868ba162c3bd1c95e3d3f12ee907e31f923"
 
 [update]
 [update.modrinth]
