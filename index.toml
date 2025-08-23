@@ -80,6 +80,11 @@ hash = "8614268ae009f49372cb267a0cea77f75625a9c797501df13aa95ac9bfb5fc7f"
 metafile = true
 
 [[files]]
+file = "mods/borderless-window.pw.toml"
+hash = "28bd91a316b8b46c4950e1a337cf82df78dace01daf47d09873b139f1ca87380"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "3c9ae1460c1dad8dfac21acb1d0306c74c6af5b41a048fde395f008fbbcbca15"
 metafile = true

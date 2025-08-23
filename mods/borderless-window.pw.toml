@@ -1,0 +1,13 @@
+name = "Borderless Window"
+filename = "borderless-neoforge-1.21.4-1.7.3-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CnalMsa0/versions/dj718VcH/borderless-neoforge-1.21.4-1.7.3-all.jar"
+hash-format = "sha512"
+hash = "90e5c4ad68b52ebbcd98f1cde75523ca2cd1d02098b7010ab231fa6e402d048ea7c8874e88e6d964abf9a6425a75e01dc39fc0a6dfa2056270b49c035bed0f45"
+
+[update]
+[update.modrinth]
+mod-id = "CnalMsa0"
+version = "dj718VcH"
