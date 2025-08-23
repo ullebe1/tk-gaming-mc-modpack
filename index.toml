@@ -155,6 +155,11 @@ hash = "36ca424432226ba50961b9a9a9e8a9b97e3a76763c9d82ce7c5492b0822cefc0"
 metafile = true
 
 [[files]]
+file = "mods/create-train-parts.pw.toml"
+hash = "30b8c39758d7e78569f43e73861a3edfd38c8f703d6175b8a89bb37aa92cffd5"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
