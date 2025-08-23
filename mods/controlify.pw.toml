@@ -1,6 +1,6 @@
 name = "Controlify (Controller support)"
 filename = "controlify-2.2.1+1.21.1-neoforge.jar"
-side = "server"
+side = "client"
 pin = true
 
 [download]
