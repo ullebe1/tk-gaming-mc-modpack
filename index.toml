@@ -490,6 +490,11 @@ hash = "c6c2a2a76d829b51404602366cb2db44a4578f3e3830f6e642c2df995e63f5c2"
 metafile = true
 
 [[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
