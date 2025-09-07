@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/j4ARnQwY/versions/3Ygyimsf/create_bb-1.0.5-1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "9525bdde8b188f564925be153031b7904806ba18a7a17f1e51cc34d4737c54606be4544e16e54102e6e87ab8b92e2a939c17b6276667d0e8b651760e37bdbab5"
+hash-format = "sha256"
+hash = "62b8906141a21c304d1bda88d065016d6506a76b26067207804d9e2790d4991c"
 
 [update]
 [update.modrinth]

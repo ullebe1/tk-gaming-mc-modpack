@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
-hash = "66d6a153c156b11e472bb4c226bb3a88b519cac4cf306904f6308965b8fe5333"
+hash = "03623651c62ad0c096ef4355f894217f9b061791d3a74ea0f7b428500a30b9af"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "0bcbbcbf939f82f90be11d6d647478f93d43d60d289d6b8ba8484ffb0f8a0f59"
+hash = "a00b3a6dfc03ca88d226f8c07b42f9c5787d7de0651eba76f4ac538650c59a2c"
 metafile = true
 
 [[files]]
@@ -166,12 +166,12 @@ metafile = true
 
 [[files]]
 file = "mods/createbetterfps.pw.toml"
-hash = "72e579d15d1995647534ffbdff420db79efc6c5b8301afa3ab814dfdc470c51d"
+hash = "dd0c74cfd11baa11dd3c86ce6c2606d4bebf50cc9e6b9bcd97985d732637b293"
 metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "470aa87612a0fad97ee2566e091ddc5ff115c3cde7214d831cb95a5dc34ba531"
+hash = "89cc39df4994f6cf34e859d44051aabc03d87d76302e00d5d9e940ac24a39ee7"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "845d56c30d9484014c29d05c15c3bc8891bffc7efc1f5b14b62743b12ec94ff3"
+hash = "77054226f7e5de1d2f62850bee5662b4cbd0882c210ed2bec0dded6c13dfaaae"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "0c815744302126024748fcba41a404b9f5fe5b0c4c4e84a587dbf995b839c469"
+hash = "997fb778618367c0576d32b61a5c20112d2f2ab180b0d2780b216eca6ee936c8"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "af02f8be14b08503b29c94ae613ed2317202ff32e56df45038184e1725673984"
+hash = "9c69b571541d3098cf4636ce7bc5595b5984581442083a7863727e7624d7bb90"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "14c396a2fd2d03d8cc7346e41721b72aa160ebc7d0959eb31480c04283ec170b"
+hash = "baf84ea1435a32188bec353b44287f0b86b6a823098821160c2cd00f86404c95"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+hash = "95fe79ecdb1e1da0aa00bbc7a113b117353382265350b570b23c43bf9ddde7d7"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/teleport-commands.pw.toml"
-hash = "c78dcf23699f86c9cfea3ee4bdc534e0e14a99ee86f846e5ae271064549c396f"
+hash = "2c07ace7da2972bbbfe08c372377b6bb2bfc603493c5fbe2de2ac4a47b7e9c27"
 metafile = true
 
 [[files]]
