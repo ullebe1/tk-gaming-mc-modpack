@@ -340,11 +340,6 @@ hash = "32157b6f2b2d55bec2575281a39fc262870468727bd396379d02bf54d6325034"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "fe998b7da3c1c25e4686d49032dc316090d27ca4666c6746edce915553e250bf"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "47d390380e9c55e59fba1b139256e74a1396282633146b422d7e5a4b29a83c6f"
 metafile = true
