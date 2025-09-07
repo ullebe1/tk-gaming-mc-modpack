@@ -1,13 +1,13 @@
 name = "Teleport Commands"
-filename = "teleport_commands-1.21.1-v1.3.2.jar"
+filename = "teleport_commands-1.21.1-v1.3.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/3ne670on/versions/PfVhPuLn/teleport_commands-1.21.1-v1.3.2.jar"
-hash-format = "sha256"
-hash = "73df7dcdfebd7a5a7fc14aa4248461bded7169f2dc5fd7ee3cff4c3629f9cefa"
+url = "https://cdn.modrinth.com/data/3ne670on/versions/OSiGulDW/teleport_commands-1.21.1-v1.3.3.jar"
+hash-format = "sha512"
+hash = "6287d257e0196a69fa3443f98b3e75a17d96675daae7df6f4910e25d0d62cd8cb4dcc3572c7b7f2aa24f65c8a8bfddfc54ffc431d436f42d01f418481dbd60fb"
 
 [update]
 [update.modrinth]
 mod-id = "3ne670on"
-version = "PfVhPuLn"
+version = "OSiGulDW"
