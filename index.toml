@@ -300,11 +300,6 @@ hash = "baf84ea1435a32188bec353b44287f0b86b6a823098821160c2cd00f86404c95"
 metafile = true
 
 [[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "2b1ed6254301e411e7254763132002e7c67e59c722575dd9e518c5a919eb81ad"
-metafile = true
-
-[[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "47bd76bf716bc1ac8c62357d0958fd68872ae318d6713b04acdc49c1f19fdd47"
 metafile = true
