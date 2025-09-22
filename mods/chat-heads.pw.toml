@@ -1,13 +1,13 @@
 name = "Chat Heads"
-filename = "chat_heads-0.13.20-neoforge-1.21.jar"
+filename = "chat_heads-0.13.21-neoforge-1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/1XG8Av88/chat_heads-0.13.20-neoforge-1.21.jar"
-hash-format = "sha256"
-hash = "ba105f86d705e2833de5f7e39df92f6fb20f144f9d49973ab722afd4c8cdedd8"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/iVtv2fqV/chat_heads-0.13.21-neoforge-1.21.jar"
+hash-format = "sha512"
+hash = "85c43da90657a93d40d3a2f091b082d79c8f293fa30e93cea9770e80e77792d01ef621e66e0a537ab024ac677e47f5bafca95ebf2aadda621ee74c82e89873ee"
 
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
-version = "1XG8Av88"
+version = "iVtv2fqV"
