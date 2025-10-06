@@ -10,30 +10,6 @@ hash = "12ab816c680413f2d5beed29bc323927023f73489bac2b7fe9b640c52ecf010a"
 metafile = true
 
 [[files]]
-file = "data/.maven/maven.packwiz.infra.link-link.infra.packwiz-packwiz-installer.xml"
-hash = "07655d0c38744d77ea62d247199d9b39a35ee03358be99adbcdccd03016c1206"
-
-[[files]]
-file = "data/.neoforge-manifest.json"
-hash = "91a3d0b157e38fb520f5ddb1ba84317e94f41008193136997039194a65eb300c"
-
-[[files]]
-file = "data/.rcon-cli.env"
-hash = "edd9abcdea5f73eb74a50bcb0f79da214512dfa7618530d161c40e6080378962"
-
-[[files]]
-file = "data/.rcon-cli.yaml"
-hash = "9a6931cb584f2776b27610bac2b7adc7d64e95597faf436f49e259097dfb081e"
-
-[[files]]
-file = "data/.run-neoforge.env"
-hash = "b09cf579b4cd6eef112642c1135b81051b29d0003651b65cb3f84e8c9c1d6ebc"
-
-[[files]]
-file = "docker-compose.yml"
-hash = "02c3703e218abf1dce757377883282ad62b4bb4e8491253c3f5fe24d0791c075"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "a7de15b1b38eb154b0799b8dc2a9d1a021dbc0940e7575959f8fd38e015465cb"
 metafile = true
