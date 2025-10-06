@@ -1,0 +1,30 @@
+version: '3.3'
+services:
+  tk-minecraft:
+    image: itzg/minecraft-server:latest
+    container_name: tk-minecraft
+    environment:
+      CF_API_KEY: "CHANGEME!"
+      CF_PARALLEL_DOWNLOADS: "4"
+      DIFFICULTY: "easy"
+      ENABLE_RCON: "true"
+      EULA: "true"
+      INIT_MEMORY: 2G
+      LEVEL: "world"
+      LEVEL_TYPE: "DEFAULT"
+      MEMORY: 8G
+      MODE: "survival"
+      MODRINTH_DOWNLOAD_DEPENDENCIES: "none"
+      MOTD: "Welcome to TK Gaming!"
+      NEOFORGE_VERSION: "21.1.208"
+      PACKWIZ_URL: https://raw.githubusercontent.com/ullebe1/tk-gaming-mc-modpack/refs/heads/ng/pack.toml
+      TYPE: NEOFORGE
+      USE_AIKAR_FLAGS: "true"
+      VERSION: "1.21.1"
+    ports:
+      - 25565:25565
+      - 8100:8100
+      - 25575:25575
+    volumes:
+      - ./data:/data:z
+    restart: unless-stopped
