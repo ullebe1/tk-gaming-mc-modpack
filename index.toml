@@ -405,11 +405,6 @@ hash = "ce608a93035b893e9283685b81d6aced2637f0ffae95a8b75baf6cbdff458d6a"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "ec7bc180cc76398b43e8b1eb2fcd910beecd498dbeff4089b356547a3735d098"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "b8b1c1b3a3b6aa5bd2d8371b15d537c7ff23ac1284d644348fb6c3404b1ce843"
 metafile = true
