@@ -9,10 +9,10 @@ services:
       DIFFICULTY: "easy"
       ENABLE_RCON: "true"
       EULA: "true"
-      INIT_MEMORY: 2G
+      INIT_MEMORY: 8G
       LEVEL: "world"
       LEVEL_TYPE: "DEFAULT"
-      MEMORY: 8G
+      MEMORY: 16G
       MODE: "survival"
       MODRINTH_DOWNLOAD_DEPENDENCIES: "none"
       MOTD: "Welcome to TK Gaming!"
