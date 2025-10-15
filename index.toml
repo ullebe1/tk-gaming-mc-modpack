@@ -100,6 +100,16 @@ hash = "2b48d5a0fb3108466f40edf2ee6c729f19eb0b829450a91783c49862185ae977"
 metafile = true
 
 [[files]]
+file = "mods/chunky-player-pause.pw.toml"
+hash = "e9d66d5549852158c5e74cfc40a8fc7d4d223af5b6ef18af23adeef10ac245ea"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "fe127a6927e3b15b8503102cf377efb25f1eac5a110997003cb06e123ad210d8"
 metafile = true
