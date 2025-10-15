@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "df882425b2c473b9cc806e14709d0c647eecb7986da44dafefd026cbc9332b0a"
+hash = "f089253c9f59a886638eabe503d78acd9e9612e857433c91bf7c9d3140a36180"
 metafile = true
 
 [[files]]
@@ -116,12 +116,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "ceffbcc7bd4f530972e5a120054c3413185d204d9f1cfcf9831be986b42380c7"
+hash = "04fc19ba8ca9989cbc34710f658040d4560178254e3e7ba7520ee863f20eca88"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "79d6adc6ff8bfdd30494e4d31b5864025bffd13bd0735f37580060de5477f98e"
+hash = "a37a0756b572cce8b55d9092891451940a6dc028efc412c472dd2f72c3385bc2"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
+hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2355aae21dc167cf3af34b83ed642b23b314eeea825ed56705467e2548b2ba4e"
+hash = "25e09f7f8c5ffba94520bcf027b70054e7860216d01901eb7e73009cbacdbc4e"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "997fb778618367c0576d32b61a5c20112d2f2ab180b0d2780b216eca6ee936c8"
+hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
-hash = "08ee33355106529e880a88f68d7189d10916cdad6c6292901bd440dfcceb613b"
+hash = "7d3dd71f0a173bcdae1016ffae45dd0bfb5d74655c459c73437d88ab76b6951c"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bcdf2b7b2e4648346526c576824ff02f6d519edf406f8fbcf6d6d73fc1de507d"
+hash = "5c9c02c41b58339395d130c67c5d7c9b0f9037ccac99b210dc757e3ca49dd898"
 metafile = true
 
 [[files]]
@@ -456,12 +456,12 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "bcc8247ba3fa5efad0f2e4e1ff41f1504ad60be870737d776ffe5cde40f4ac65"
+hash = "7ec397223195ea1972369d9f13b822d23e3c40e23f8672f2554c0d58f471c34d"
 metafile = true
 
 [[files]]
 file = "mods/teleport-commands.pw.toml"
-hash = "2c07ace7da2972bbbfe08c372377b6bb2bfc603493c5fbe2de2ac4a47b7e9c27"
+hash = "4069c2ead5632415da835ba6043097ddf0f0c3ca8a52caad76a20b116217ab4f"
 metafile = true
 
 [[files]]
@@ -566,5 +566,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
